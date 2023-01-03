@@ -1,10 +1,8 @@
 # cursor-travel-tracker
 
-How far has my cursor travelled? Millions of pixels so far today.
+How far has my cursor travelled? Millions of pixels so far today. I know this because I wrote a small Python script that tells me in my macOS menu bar.
 
 ![macOS menu bar: your cursor has travelled four million pixels](https://github.com/healeycodes/cursor-travel-tracker/blob/main/preview.png)
-
-I know, because I wrote this small Python script that tells me in my macOS menu bar.
 
 It's powered by [rumps](https://github.com/jaredks/rumps) and [pynput](https://pynput.readthedocs.io/en/latest/).
 
